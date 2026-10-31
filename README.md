@@ -72,7 +72,7 @@
 
 I'm open to **entry-level Data Analyst, BI, Power BI, MIS and Reporting roles** in **Thane, Navi Mumbai and Mumbai**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarup-vishe-a607963a4/)
 [![Email](https://img.shields.io/badge/Email-swarupvishe3000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swarupvishe3000@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
 
